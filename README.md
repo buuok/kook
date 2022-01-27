@@ -24,7 +24,7 @@ a.这里建议你fork本代码后，在github里设置为私有，然后绑定�
 
 b.或者也可以fork代码后，修改下面链接rptec为你自己账户名，通过链接部署。
 
-https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.git
+https://dashboard.heroku.com/new?template=https://github.com/buuok/kook.git
 
 免费服务，且用且珍惜。
 
